@@ -19,6 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
  FlameIT -Immersion Cooling - WWW Statics
 twitter_username: flameitio
 github_username:  flameit-os
+google_analytics: UA-136611749-1
 
 # readme_index:
 #   enabled:          true
