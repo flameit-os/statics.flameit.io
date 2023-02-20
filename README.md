@@ -12,7 +12,6 @@ If You need any other help or You are looking for direct contact with us please 
 
 Join [FlameIT - Immersion Cooling - Discord](https://bit.ly/flameit-discord) community
 
-
 ## Copyright
 
 * © 2023 [FlameIT - Immersion Cooling](https://flameit.io)
